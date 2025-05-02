@@ -1,4 +1,5 @@
 US Household Income Data Analysis
+
 This project involves cleaning and analyzing household income data in the United States using SQL and CSV files. The goal is to prepare the data for reporting and visualization by identifying patterns, trends, and cleaning issues.
 
 Project Files
